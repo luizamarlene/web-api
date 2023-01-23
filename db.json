@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "login": "andreocunha",
+      "id": 1,
+      "avatar_url": "https://avatars.githubusercontent.com/u/54721131?v=4",
+      "name": "LuizaOliveira Cunha",
+      "email": "andre@email.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliakt",
+      "id": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    },
+    {
+      "login": "luizamarlene",
+      "id": 3,
+      "avatar_url": "https://avatars.githubusercontent.com/u/84198233?s=400&u=c74883e19b717de1d75bd6ff3ca3fb7eecebcc0a&v=4",
+      "name": "Luiza Marlene",
+      "email": "luiza8.marlene@gmail.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "postId": 1,
+      "name": "api-",
+      "data": "1 de jan. de 2021",
+      "id": 2
+    },
+    {
+      "postId": 1,
+      "name": "bot_piano_t",
+      "data": "1 de jan. de 2021",
+      "id": 4
+    },
+    {
+      "id": 1,
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "postId": 1,
+      "name": "a",
+      "data": "aaaaa",
+      "id": 6
+    },
+    {
+      "postId": 3,
+      "name": "novo 1",
+      "data": "23 de Janeiro de 2023",
+      "id": 7
+    },
+    {
+      "postId": 3,
+      "name": "web",
+      "data": "hoje",
+      "id": 8
+    }
+  ]
+}

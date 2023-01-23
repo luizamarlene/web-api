@@ -13,10 +13,10 @@ export default function Rotas() {
     return (
         <NavigationContainer>
             <Tab.Navigator>
-                <Tab.Screen name="Principal" options={{ title: "Perfil" }} component={Principal} />
-                <Tab.Screen name="Repositorios" component={Repositorios} />
+                <Tab.Screen name="Principal" options={{ title: "Alura Hub" }} component={Principal} />
+                <Tab.Screen name="Repositorios" options={{ title: "Repositórios" }} component={Repositorios} />
                 <Tab.Screen name="CriarRepositorio" options={{ title: "Criar Repositório" }} component={CriarRepositorio} />
-                <Tab.Screen name="InfoRepositorio" options={{ title: "Repositório Info" }} component={InfoRepositorio} />
+                <Tab.Screen name="InfoRepositorio" options={{ title: "Informações do Repositório" }} component={InfoRepositorio} />
             </Tab.Navigator>
         </NavigationContainer>
     );
